@@ -1,0 +1,12 @@
+
+.lista {
+  display: flex;
+  font-family: 'Poppins', sans-serif;
+  justify-content: center;
+  gap: 5%;
+margin-top: 1rem;
+}
+
+.item {
+  margin-right: 10px;
+}
